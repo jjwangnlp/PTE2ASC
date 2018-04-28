@@ -10,7 +10,7 @@ This is a word embedding resource built by ourselves with PTE which is a semisup
 
 The word embedding resource is released at https://pan.baidu.com/s/1Z7BxJ2rf0XlFlPfg7dEf4Q.
 
-# Test
+# Usuage
 
 python tests_demo.py
 
