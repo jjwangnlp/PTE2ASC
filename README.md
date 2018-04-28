@@ -16,7 +16,7 @@ python tests_demo.py
 
 # Prerequisition
 
-python >=2.7
+python version >= 2.7
 
 # Citation
 
