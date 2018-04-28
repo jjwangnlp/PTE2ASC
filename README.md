@@ -14,6 +14,10 @@ The word embedding resource is released at https://pan.baidu.com/s/1Z7BxJ2rf0XlF
 
 python tests_demo.py
 
+# Prerequisition
+
+python >=2.7
+
 # Citation
 
 Jingjing Wang, Jie Li, Shoushan Li, Yangyang Kang, Min Zhang, Luo Si. Aspect Sentiment Classidication with both Word-level and Clause-level Attention Networks. In Proceeding of IJCAI-2018.
