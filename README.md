@@ -10,6 +10,10 @@ This is a word embedding resource built by ourselves with PTE which is a semisup
 
 The word embedding resource is released at https://pan.baidu.com/s/1Z7BxJ2rf0XlFlPfg7dEf4Q.
 
+# Discourse Segmentation Tool
+
+Owing to some unknown reasons, the orginal url http://alt.qcri.org/tools/discourse-parser/ could not be accessed. Now, you can download the same  discourse segmentation tool from  the new address https://github.com/jjwangnlp/codra-rst-parser.
+
 # Usuage
 
 python tests_demo.py
